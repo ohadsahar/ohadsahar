@@ -11,3 +11,4 @@ Strong engineering professional with a Bachelor of Science - BS focused in Softw
 <img src="/javascript.png" alt="javascript logo" width="30"/>
 <img src="/redux.jpeg" alt="redux logo" width="30"/>
 <img src="/css.webp" alt="css logo" width="30"/>
+<img src="/firebase.png" alt="css logo" width="30"/>
