@@ -1,4 +1,5 @@
-# Welcome to my Github page :) :wave::smiley:
+# Welcome to my GitHub page :) :wave::smiley:
+
 <br>
 
 **Who am I?** Hi I'm Ohad, Experienced Full Stack Engineer with a demonstrated history of working in the computer software industry.<br>
@@ -22,8 +23,8 @@ Strong engineering professional with a Bachelor of Science - BS focused in Softw
 **Check my Linkedin**<br><br>
 [![Linkedin](https://img.shields.io/badge/-OhadSahar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ohad-sahar-b2a7a9129/)
 
-
 <!-- Profile View Count and GitStats -->
+
 **GitStats Viewers**<br><br>
 ![](https://komarev.com/ghpvc/?username=OhadSahar&style=flat)
 [![Github](https://img.shields.io/badge/-OhadSahar-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/ohadsahar)
@@ -33,3 +34,5 @@ Strong engineering professional with a Bachelor of Science - BS focused in Softw
     <img width="500" height="auto" align="left" alt="ohadsahar's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=ohadsahar&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
   </a>
+
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
