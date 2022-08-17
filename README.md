@@ -1,4 +1,4 @@
-Hi I'm Ohad, Experienced Full Stack Engineer with a demonstrated history of working in the computer software industry.
+Hi I'm Ohad, Experienced Full Stack Engineer with a demonstrated history of working in the computer software industry.<br>
 Skills: Angular · React · React Native · Flutter · Node.js<br>
 Cloud: Amazon Web Services (AWS)<br>
 Strong engineering professional with a Bachelor of Science - BS focused in Software Engineer from SCE - Shamoon College of Engineering.
