@@ -1,3 +1,6 @@
+# Welcome to my Github page :) :wave::smiley:
+<br>
+
 **Who am I?** Hi I'm Ohad, Experienced Full Stack Engineer with a demonstrated history of working in the computer software industry.<br>
 **Skills:** Angular · React · React Native · Flutter · Node.js<br>
 **Cloud:** Amazon Web Services (AWS)<br>
