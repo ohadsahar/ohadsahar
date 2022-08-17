@@ -16,7 +16,7 @@ Strong engineering professional with a Bachelor of Science - BS focused in Softw
 <img src="/firebase.png" alt="firebase logo" width="30"/>
 <img src="/aws.png" alt="aws logo" width="30" height="30"/>
 
-**Check my linkedin**<br>
+**Check my Linkedin**<br><br>
 [![Linkedin](https://img.shields.io/badge/-OhadSahar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ohad-sahar-b2a7a9129/)
 
 <br>
