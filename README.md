@@ -19,6 +19,11 @@ Strong engineering professional with a Bachelor of Science - BS focused in Softw
 **Check my Linkedin**<br><br>
 [![Linkedin](https://img.shields.io/badge/-OhadSahar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ohad-sahar-b2a7a9129/)
 
+
+<!-- Profile View Count and GitStats -->
+![](https://komarev.com/ghpvc/?username=OhadSahar&style=flat)
+[![Github](https://img.shields.io/badge/-OhadSahar-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/ohadsahar)
+
 <br>
   <a href="https://gitstats.me/ohadsahar">
     <img width="500" height="auto" align="left" alt="ohadsahar's github stats" 
