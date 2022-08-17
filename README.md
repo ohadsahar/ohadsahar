@@ -21,6 +21,7 @@ Strong engineering professional with a Bachelor of Science - BS focused in Softw
 
 
 <!-- Profile View Count and GitStats -->
+**GitStats Viewers**<br><br>
 ![](https://komarev.com/ghpvc/?username=OhadSahar&style=flat)
 [![Github](https://img.shields.io/badge/-OhadSahar-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/ohadsahar)
 
