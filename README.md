@@ -6,3 +6,4 @@ Strong engineering professional with a Bachelor of Science - BS focused in Softw
 <img src="/angular.png" alt="angular logo" width="30"/>
 <img src="/flutter.png" alt="flutter logo" width="30"/>
 <img src="/react.png" alt="react logo" width="30"/>
+<img src="/node.png" alt="node logo" width="30"/>
