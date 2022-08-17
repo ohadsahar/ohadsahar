@@ -16,6 +16,9 @@ Strong engineering professional with a Bachelor of Science - BS focused in Softw
 <img src="/firebase.png" alt="firebase logo" width="30"/>
 <img src="/aws.png" alt="aws logo" width="30" height="30"/>
 
+[![Linkedin](https://img.shields.io/badge/-OhadSahar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ohad-sahar-b2a7a9129/)
+
+<br>
   <a href="https://gitstats.me/ohadsahar">
     <img width="500" height="auto" align="left" alt="ohadsahar's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=ohadsahar&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
