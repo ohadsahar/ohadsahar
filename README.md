@@ -2,6 +2,6 @@ Hi I'm Ohad, Experienced Full Stack Engineer with a demonstrated history of work
 Skilled in Angular, React, React Native, Flutter And Node.js
 Strong engineering professional with a Bachelor of Science - BS focused in Software Engineer from SCE - Shamoon College of Engineering.
 
-**Technologies and Tools:**
+**Technologies and Tools:**<br>
 ![Screenshot](/angular.png)
 ![Screenshot](angular.png)
