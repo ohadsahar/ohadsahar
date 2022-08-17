@@ -31,5 +31,5 @@ Strong engineering professional with a Bachelor of Science - BS focused in Softw
     <img width="500" height="auto" align="left" alt="ohadsahar's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=ohadsahar&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
   </a>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
