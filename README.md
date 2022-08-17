@@ -17,9 +17,6 @@ Strong engineering professional with a Bachelor of Science - BS focused in Softw
 <img src="/aws.png" alt="aws logo" width="30" height="30"/>
 
   <a href="https://gitstats.me/ohadsahar">
-    <img width="500" height="auto" align="right" alt="morofir's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=morofir&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="morofir's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=morofir&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+    <img width="500" height="auto" align="left" alt="ohadsahar's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=ohadsahar&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
   </a>
