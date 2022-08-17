@@ -5,4 +5,4 @@ Strong engineering professional with a Bachelor of Science - BS focused in Softw
 **Technologies and Tools:**<br><br>
 <img src="/angular.png" alt="angular logo" width="30"/>
 <img src="/flutter.png" alt="flutter logo" width="30"/>
-<img src="/react.jpg" alt="react logo" width="30"/>
+<img src="/react.png" alt="react logo" width="30"/>
