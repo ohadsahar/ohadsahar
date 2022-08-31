@@ -5,7 +5,7 @@
 **Skills:** Angular · React · React Native · Flutter · Node.js<br>
 **Cloud:** Amazon Web Services (AWS)<br>
 **Design:** Pixel Perfect Design with SASS,CSS,Styled Components<br>
-Strong engineering professional with a Bachelor of Science - BS focused in Software Engineer from SCE - Shamoon College of Engineering.
+Strong engineering professional with a Bachelor of Science - BS focused in Software Engineer from SCE - Shamoon College of Engineering
 
 **Technologies and Tools:**<br><br>
 <img src="/angular.png" alt="angular logo" width="30"/>
