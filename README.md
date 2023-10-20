@@ -15,8 +15,6 @@
 - 👀 So if you are looking for someone to develop your next product for you, it is us without a doubt!
 - 📫 [My Linkedin](https://www.linkedin.com/in/ohad-sahar-b2a7a9129/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?OhadSahar=GorillasApps&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
   <a href="https://gitstats.me/ohadsahar">
     <img width="500" height="auto" align="left" alt="ohadsahar's github stats" 
