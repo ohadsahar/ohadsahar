@@ -14,7 +14,7 @@
 - 👀 So if you are looking for someone to develop your next product for you, it is us without a doubt!
 - 📫 [My Linkedin](https://www.linkedin.com/in/ohad-sahar-b2a7a9129/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GorillasApps&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?OhadSahar=GorillasApps&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 GorillasApps/GorillasApps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,10 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 **Check my Linkedin**<br><br>
 [![Linkedin](https://img.shields.io/badge/-OhadSahar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ohad-sahar-b2a7a9129/)
-
-**GitStats Viewers**<br><br>
-![](https://komarev.com/ghpvc/?username=OhadSahar&style=flat)
-[![Github](https://img.shields.io/badge/-OhadSahar-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/ohadsahar)
 
 <br>
   <a href="https://gitstats.me/ohadsahar">
