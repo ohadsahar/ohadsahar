@@ -16,15 +16,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?OhadSahar=GorillasApps&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-GorillasApps/GorillasApps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-**Check my Linkedin**<br><br>
-[![Linkedin](https://img.shields.io/badge/-OhadSahar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ohad-sahar-b2a7a9129/)
-
 <br>
   <a href="https://gitstats.me/ohadsahar">
     <img width="500" height="auto" align="left" alt="ohadsahar's github stats" 
