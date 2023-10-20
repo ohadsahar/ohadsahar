@@ -1,6 +1,7 @@
 # Welcome to my GitHub page :wave:
 <br>
-![Uploading Blue Geometric Technology LinkedIn Banner (2).png…]()
+![Blue Geometric Technology LinkedIn Banner (2)](https://github.com/ohadsahar/ohadsahar/assets/46564719/eff10197-7d95-4bc2-9eff-8fecbb1273a8)
+
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
