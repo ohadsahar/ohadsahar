@@ -1,7 +1,7 @@
-# Welcome to my GitHub page :wave:
+![SoftwareEnginner](https://github.com/ohadsahar/ohadsahar/assets/46564719/c6ba3b8f-0936-46f0-9242-52e817bf277c)# Welcome to my GitHub page :wave:
 <br>
-![Blue Geometric Technology LinkedIn Banner (2)](https://github.com/ohadsahar/ohadsahar/assets/46564719/eff10197-7d95-4bc2-9eff-8fecbb1273a8)
 
+![SoftwareEnginner](https://github.com/ohadsahar/ohadsahar/assets/46564719/30635aae-0cc8-4513-a25d-594ac8c937fd)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
