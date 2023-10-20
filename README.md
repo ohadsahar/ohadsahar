@@ -1,4 +1,4 @@
-![SoftwareEnginner](https://github.com/ohadsahar/ohadsahar/assets/46564719/c6ba3b8f-0936-46f0-9242-52e817bf277c)# Welcome to my GitHub page :wave:
+# Welcome to my GitHub page :wave:
 <br>
 
 ![SoftwareEnginner](https://github.com/ohadsahar/ohadsahar/assets/46564719/30635aae-0cc8-4513-a25d-594ac8c937fd)
