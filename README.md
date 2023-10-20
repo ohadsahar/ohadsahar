@@ -11,7 +11,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 👋 Hi,We at GorillaApps will make sure that your project is carried out in the best way in the fastest time.
+- 👋 Hi I'm Ohad, Experienced Full Stack Engineer with a demonstrated history of working in the computer software industry.
 - 👀 So if you are looking for someone to develop your next product for you, it is us without a doubt!
 - 📫 [My Linkedin](https://www.linkedin.com/in/ohad-sahar-b2a7a9129/)
 
